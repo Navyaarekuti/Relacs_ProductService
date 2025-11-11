@@ -1,0 +1,49 @@
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/shelf/
+.idea/**/caches/
+.idea/**/dictionaries/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+.idea/**/httpRequests/
+.idea/**/usage.statistics.xml
+.idea/**/localHistory/
+*.iml
+
+### Spring ###
+*.env
+application.properties
+application.yml
+application-*.properties
+application-*.yml
+
+### Logs ###
+logs/
+*.log
+
+### Build/Output ###
+bin/
+out/
+build/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Temp ###
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
